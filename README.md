@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hey 👋, I'm Karan Kushwaha</h1>
 
 <h3 align="center">
